@@ -1,0 +1,32 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.margin {
+  margin-bottom: 20px;
+}
+
+.marginBottom {
+  margin-bottom: 150px;
+}
+
+.description2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  margin-left: 20px;
+  text-align: justify;
+  padding: 20px;
+  background-color: #e9ebff;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.marginTop {
+  margin-top: 40px;
+  border-radius: 20px;
+  padding: 10px;
+}
